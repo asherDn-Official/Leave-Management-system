@@ -1,0 +1,5 @@
+Proper RBAC middleware using permissions instead of only roles.
+Centralized error handling with custom status codes.
+Feature-based architecture (after the internship).
+MongoDB transactions.
+Constants file
